@@ -142,7 +142,7 @@ margin: 0;}
             
             <div id="last-purchase-feature" class="welcome-panel-column-container">
                 <div class="panel-desc-edd">
-                    <h3>So, why you are waiting for? Grab those features in 5 minutes. It is only $12.</h3>
+                    <h3>So, why you are waiting for? Grab those features in 5 minutes. It is only $16.</h3>
                     <a target="_blank" href="http://codecanyon.net/item/edd-related-downloads-carousel/10400059?ref=relatedcontentwp" class="button button-primary button-hero">Purchase now!</a>
                 </div>
             </div>

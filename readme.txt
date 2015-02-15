@@ -50,7 +50,7 @@ For digital product selling, Easy Digital Download is best choice. EDD Related d
 <h4>Cheapper than other premium plugin</h4>
 <p>Our premium plugin is cheaper than other premium plugin, no monthly or yearly subscription, no other condtion. You need purchase one time &amp; you will get all features, updates life time. Really!</p>
 
-<h4><a target="_blank" href="http://codecanyon.net/item/edd-related-downloads-carousel/10400059?ref=relatedcontentwp">Purchase premium version now! Only $12</a></h4>
+<h4><a target="_blank" href="http://codecanyon.net/item/edd-related-downloads-carousel/10400059?ref=relatedcontentwp">Purchase premium version now! Only $16</a></h4>
 			
 
 
